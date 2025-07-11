@@ -1,4 +1,4 @@
-s except self using the / operator
+//To find  the product of given array except self ,using the / operator
 // Time Complexity: O(2n) => O(n)
 
 #include<iostream>
