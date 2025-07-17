@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    int arr[] = {0, 1, 2, 0, 1, 2};
+    int arr[] = {0, 1, 2, 0, 1, 2,0,0,0,1, 2, 1, 2, 0, 1, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     int count0 = 0, count1 = 0, count2 = 0;
@@ -23,7 +23,7 @@ int main() {
     while (count1--) arr[i++] = 1;
     while (count2--) arr[i++] = 2;
 
-    for (int ele : arr) cout << ele << " ";
+    for (int ele : arr) cout << ele << "\n";
 
     return 0;
 }
