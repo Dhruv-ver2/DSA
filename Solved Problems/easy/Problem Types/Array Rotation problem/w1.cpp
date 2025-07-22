@@ -1,6 +1,6 @@
 //To rotate an array to the left by one position
 //Time Complexity: O(n)
-//Space Complexity: O(1)
+//Space Complexity: O(1) 
 
 #include <iostream>
 #include <vector>
