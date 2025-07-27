@@ -1,3 +1,7 @@
+// Peak Index of Mountain Array
+// Given a mountain array, find the index of the peak element.
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
